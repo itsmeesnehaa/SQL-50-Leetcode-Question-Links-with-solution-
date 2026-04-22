@@ -1,360 +1,94 @@
-# 📊 SQL 50 LeetCode
+# 📊 SQL 50 LeetCode Series
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200"/>
-</p>
+  <!-- 🔥 Add your SQL badge / icon below -->
+ <div align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="SQL 50 Badge" width="250"/>
+</div>
+ </p>
 
 <p align="center">
-  🚀 Master SQL for Interviews | 📈 50 Must-Do LeetCode Problems  
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&repo=SQL-50-LeetCode&label=Repository%20Views&color=0e75b6&style=flat" alt="repo views"/>
-</p>
-
----
-
-## 🚀 About This Repository
-
-This repository contains my solutions to the **Top 50 SQL problems on LeetCode**, curated to:
-
-* Crack **product-based company interviews**
-* Build strong **SQL fundamentals**
-* Practice **real-world database queries**
-
----
-
-## 🧠 What You’ll Learn
-
-✔️ Writing efficient SQL queries
-✔️ Solving real interview problems
-✔️ Understanding patterns like:
-
-* Joins
-* Aggregations
-* Subqueries
-* Window Functions
-* CTEs
-
----
-
-## 📚 SQL 50 Problem List
-
-### 🟢 Basic Queries
-
-1. https://leetcode.com/problems/recyclable-and-low-fat-products/
-2. https://leetcode.com/problems/find-customer-referee/
-3. https://leetcode.com/problems/big-countries/
-4. https://leetcode.com/problems/article-views-i/
-5. https://leetcode.com/problems/invalid-tweets/
-
----
-
-### 🟡 Joins
-
-6. https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/
-7. https://leetcode.com/problems/product-sales-analysis-i/
-8. https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/
-9. https://leetcode.com/problems/rising-temperature/
-10. https://leetcode.com/problems/average-time-of-process-per-machine/
-
----
-
-### 🔵 Aggregations
-
-11. https://leetcode.com/problems/employee-bonus/
-12. https://leetcode.com/problems/students-and-examinations/
-13. https://leetcode.com/problems/managers-with-at-least-5-direct-reports/
-14. https://leetcode.com/problems/confirmation-rate/
-15. https://leetcode.com/problems/game-play-analysis-i/
-
----
-
-### 🟣 Advanced Joins
-
-16. https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/
-17. https://leetcode.com/problems/user-activity-for-the-past-30-days-i/
-18. https://leetcode.com/problems/product-sales-analysis-iii/
-19. https://leetcode.com/problems/classes-more-than-5-students/
-20. https://leetcode.com/problems/find-followers-count/
-
----
-
-### 🟠 Subqueries
-
-21. https://leetcode.com/problems/biggest-single-number/
-22. https://leetcode.com/problems/customers-who-never-order/
-23. https://leetcode.com/problems/department-highest-salary/
-24. https://leetcode.com/problems/department-top-three-salaries/
-25. https://leetcode.com/problems/delete-duplicate-emails/
-
----
-
-### 🔴 Window Functions
-
-26. https://leetcode.com/problems/rank-scores/
-27. https://leetcode.com/problems/consecutive-numbers/
-28. https://leetcode.com/problems/nth-highest-salary/
-29. https://leetcode.com/problems/second-highest-salary/
-30. https://leetcode.com/problems/customers-who-bought-all-products/
-
----
-
-### ⚫ Advanced SQL
-
-31. https://leetcode.com/problems/median-employee-salary/
-32. https://leetcode.com/problems/trips-and-users/
-33. https://leetcode.com/problems/human-traffic-of-stadium/
-34. https://leetcode.com/problems/tree-node/
-35. https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/
-
----
-
-### 🧩 Mixed Practice
-
-36. https://leetcode.com/problems/investments-in-2016/
-37. https://leetcode.com/problems/fix-names-in-a-table/
-38. https://leetcode.com/problems/patients-with-a-condition/
-39. https://leetcode.com/problems/group-sold-products-by-the-date/
-40. https://leetcode.com/problems/list-the-products-ordered-in-a-period/
-
----
-
-### 🏆 Final Stretch
-
-41. https://leetcode.com/problems/find-users-with-valid-e-mails/
-42. https://leetcode.com/problems/employees-earning-more-than-their-managers/
-43. https://leetcode.com/problems/duplicate-emails/
-44. https://leetcode.com/problems/combine-two-tables/
-45. https://leetcode.com/problems/customers-who-never-order/
-46. https://leetcode.com/problems/sales-person/
-47. https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/
-48. https://leetcode.com/problems/game-play-analysis-ii/
-49. https://leetcode.com/problems/game-play-analysis-iii/
-50. https://leetcode.com/problems/game-play-analysis-iv/
-
----
-
-## 💻 Solutions
-
-👉 I will be adding **SQL queries for each problem step-by-step** in this repository.
-
-Stay tuned 🚀
-
----
-
-## 📂 Folder Structure
-
-```
-SQL-50-LeetCode/
-│
-├── 01-Problem-Name.sql
-├── 02-Problem-Name.sql
-...
-└── 50-Problem-Name.sql
-```
-
----
-
-## 🎯 Goal
-
-* Complete all 50 problems
-* Build **interview-ready SQL skills**
-* Transition into **backend / data roles**
-
----
-
-## ⭐ Support
-
-If you find this helpful, consider:
-
-👉 Starring ⭐ the repository
-👉 Following for more content
-
----
-
-## 👨‍💻 Author
-
-**Snehal Nakil**
-
----
-# 📊 SQL 50 LeetCode
-
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200"/>
-</p>
-
-<p align="center">
-  🚀 Master SQL for Interviews | 📈 50 Must-Do LeetCode Problems  
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&repo=SQL-50-LeetCode&label=Repository%20Views&color=0e75b6&style=flat" alt="repo views"/>
+  <img src="https://komarev.com/ghpvc/?username=itsmeesnehaa&repo=SQL-50-LeetCode&label=Visitors&color=0e75b6&style=flat" alt="repo views"/>
 </p>
 
 ---
 
-## 🚀 About This Repository
+## 📘 Handwritten Notes
 
-This repository contains my solutions to the **Top 50 SQL problems on LeetCode**, curated to:
-
-* Crack **product-based company interviews**
-* Build strong **SQL fundamentals**
-* Practice **real-world database queries**
+📄 [Download SQL 50 Notes (PDF)]()
 
 ---
 
-## 🧠 What You’ll Learn
+## 📚 Problem Table
 
-✔️ Writing efficient SQL queries
-✔️ Solving real interview problems
-✔️ Understanding patterns like:
-
-* Joins
-* Aggregations
-* Subqueries
-* Window Functions
-* CTEs
-
----
-
-## 📚 SQL 50 Problem List
-
-### 🟢 Basic Queries
-
-1. https://leetcode.com/problems/recyclable-and-low-fat-products/
-2. https://leetcode.com/problems/find-customer-referee/
-3. https://leetcode.com/problems/big-countries/
-4. https://leetcode.com/problems/article-views-i/
-5. https://leetcode.com/problems/invalid-tweets/
-
----
-
-### 🟡 Joins
-
-6. https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/
-7. https://leetcode.com/problems/product-sales-analysis-i/
-8. https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/
-9. https://leetcode.com/problems/rising-temperature/
-10. https://leetcode.com/problems/average-time-of-process-per-machine/
-
----
-
-### 🔵 Aggregations
-
-11. https://leetcode.com/problems/employee-bonus/
-12. https://leetcode.com/problems/students-and-examinations/
-13. https://leetcode.com/problems/managers-with-at-least-5-direct-reports/
-14. https://leetcode.com/problems/confirmation-rate/
-15. https://leetcode.com/problems/game-play-analysis-i/
-
----
-
-### 🟣 Advanced Joins
-
-16. https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/
-17. https://leetcode.com/problems/user-activity-for-the-past-30-days-i/
-18. https://leetcode.com/problems/product-sales-analysis-iii/
-19. https://leetcode.com/problems/classes-more-than-5-students/
-20. https://leetcode.com/problems/find-followers-count/
-
----
-
-### 🟠 Subqueries
-
-21. https://leetcode.com/problems/biggest-single-number/
-22. https://leetcode.com/problems/customers-who-never-order/
-23. https://leetcode.com/problems/department-highest-salary/
-24. https://leetcode.com/problems/department-top-three-salaries/
-25. https://leetcode.com/problems/delete-duplicate-emails/
+| No. | Problem Link                                                                          | Type            |
+| --- | ------------------------------------------------------------------------------------- | --------------- |
+| 1   | https://leetcode.com/problems/recyclable-and-low-fat-products/                        | SELECT     |
+| 2   | https://leetcode.com/problems/find-customer-referee/                                  | SELECT     |
+| 3   | https://leetcode.com/problems/big-countries/                                          | SELECT     |
+| 4   | https://leetcode.com/problems/article-views-i/                                        | SELECT     |
+| 5   | https://leetcode.com/problems/invalid-tweets/                                         | SELECT     |
+| 6   | https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/         | Joins           |
+| 7   | https://leetcode.com/problems/product-sales-analysis-i/                               | Joins           |
+| 8   | https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/ | Joins           |
+| 9   | https://leetcode.com/problems/rising-temperature/                                     | Joins           |
+| 10  | https://leetcode.com/problems/average-time-of-process-per-machine/                    | Joins           |
+| 11  | https://leetcode.com/problems/employee-bonus/                                         | Joins           |
+| 12  | https://leetcode.com/problems/students-and-examinations/                              | Joins           |
+| 13  | https://leetcode.com/problems/managers-with-at-least-5-direct-reports/                | Joins           |
+| 14  | https://leetcode.com/problems/confirmation-rate/                                      | Joins           |
+| 15  | https://leetcode.com/problems/not-boring-movies/                                      | Joins           |
+| 16  | https://leetcode.com/problems/average-selling-price/description/                      | Aggregation     |
+| 17  | https://leetcode.com/problems/project-employees-i/description/                        | Aggregation     |
+| 18  | https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/     | Aggregation     |
+| 19  | https://leetcode.com/problems/queries-quality-and-percentage/description/             | Aggregation     |
+| 20  | https://leetcode.com/problems/monthly-transactions-i/description/                     | Aggregation     |
+| 21  | https://leetcode.com/problems/immediate-food-delivery-ii/description/                 | Aggregation     |
+| 22  | https://leetcode.com/problems/game-play-analysis-iv/                                  |     Sorting&Grouping|
+| 23  | https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/       | Sorting&Grouping|
+| 24  | https://leetcode.com/problems/user-activity-for-the-past-30-days-i/                   | Sorting&Grouping|
+| 25  | https://leetcode.com/problems/product-sales-analysis-iii/                             | Sorting&Grouping|
+| 26  | https://leetcode.com/problems/classes-more-than-5-students/                           | Sorting&Grouping|
+| 27  | https://leetcode.com/problems/monthly-transactions-i/                                 | Sorting&Grouping|
+| 28  | [https://leetcode.com/problems/biggest-single-number/                                 | Sorting&Grouping|
+| 29  | [https://leetcode.com/problems/customers-who-never-order/                             | Sorting&Grouping|
+| 30  | https://leetcode.com/problems/department-highest-salary/                              | 
+Adv Joins       |
+| 31  | https://leetcode.com/problems/department-top-three-salaries/                          |   Adv Joins       |
+| 32  | https://leetcode.com/problems/delete-duplicate-emails/                                | 
+Adv Joins       |
+| 33  | https://leetcode.com/problems/consecutive-numbers/                                    | Window Function |
+| 34  | https://leetcode.com/problems/nth-highest-salary/                                     | Window Function |
+| 35  | https://leetcode.com/problems/second-highest-salary/                                  | Window Function |
+| 36  | https://leetcode.com/problems/customers-who-bought-all-products/                      | Window Function |
+| 37  | https://leetcode.com/problems/median-employee-salary/                                 | Advanced SQL    |
+| 38  | https://leetcode.com/problems/trips-and-users/                                        | Advanced SQL    |
+| 39  | https://leetcode.com/problems/human-traffic-of-stadium/                               | Advanced SQL    |
+| 40  | https://leetcode.com/problems/tree-node/                                              | Advanced SQL    |
+| 41  | https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/            | Advanced SQL    |
+| 42  | https://leetcode.com/problems/investments-in-2016/                                    | Mixed           |
+| 43  | https://leetcode.com/problems/fix-names-in-a-table/                                   | Mixed           |
+| 44  | https://leetcode.com/problems/patients-with-a-condition/                              | Mixed           |
+| 45  | https://leetcode.com/problems/group-sold-products-by-the-date/                        | Mixed           |
+| 46  | https://leetcode.com/problems/list-the-products-ordered-in-a-period/                  | Mixed           |
+| 47  | https://leetcode.com/problems/find-users-with-valid-e-mails/                          | Practice        |
+| 48  | https://leetcode.com/problems/employees-earning-more-than-their-managers/             | Practice        |
+| 49  | https://leetcode.com/problems/second-highest-salary/                                  | Practice        |
+| 50  | https://leetcode.com/problems/combine-two-tables/                                     | Practice        |
+| 44  | https://leetcode.com/problems/customers-who-never-order/                              | Practice        |
+| 45  | https://leetcode.com/problems/sales-person/                                           | Final           |
 
 ---
 
-### 🔴 Window Functions
+## 🔗 Connect with Me
 
-26. https://leetcode.com/problems/rank-scores/
-27. https://leetcode.com/problems/consecutive-numbers/
-28. https://leetcode.com/problems/nth-highest-salary/
-29. https://leetcode.com/problems/second-highest-salary/
-30. https://leetcode.com/problems/customers-who-bought-all-products/
-
----
-
-### ⚫ Advanced SQL
-
-31. https://leetcode.com/problems/median-employee-salary/
-32. https://leetcode.com/problems/trips-and-users/
-33. https://leetcode.com/problems/human-traffic-of-stadium/
-34. https://leetcode.com/problems/tree-node/
-35. https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/
-
----
-
-### 🧩 Mixed Practice
-
-36. https://leetcode.com/problems/investments-in-2016/
-37. https://leetcode.com/problems/fix-names-in-a-table/
-38. https://leetcode.com/problems/patients-with-a-condition/
-39. https://leetcode.com/problems/group-sold-products-by-the-date/
-40. https://leetcode.com/problems/list-the-products-ordered-in-a-period/
-
----
-
-### 🏆 Final Stretch
-
-41. https://leetcode.com/problems/find-users-with-valid-e-mails/
-42. https://leetcode.com/problems/employees-earning-more-than-their-managers/
-43. https://leetcode.com/problems/duplicate-emails/
-44. https://leetcode.com/problems/combine-two-tables/
-45. https://leetcode.com/problems/customers-who-never-order/
-46. https://leetcode.com/problems/sales-person/
-47. https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/
-48. https://leetcode.com/problems/game-play-analysis-ii/
-49. https://leetcode.com/problems/game-play-analysis-iii/
-50. https://leetcode.com/problems/game-play-analysis-iv/
-
----
-
-## 💻 Solutions
-
-👉 I will be adding **SQL queries for each problem step-by-step** in this repository.
-
-Stay tuned 🚀
-
----
-
-## 📂 Folder Structure
-
-```
-SQL-50-LeetCode/
-│
-├── 01-Problem-Name.sql
-├── 02-Problem-Name.sql
-...
-└── 50-Problem-Name.sql
-```
-
----
-
-## 🎯 Goal
-
-* Complete all 50 problems
-* Build **interview-ready SQL skills**
-* Transition into **backend / data roles**
-
----
-
-## ⭐ Support
-
-If you find this helpful, consider:
-
-👉 Starring ⭐ the repository
-👉 Following for more content
-
----
-
-## 👨‍💻 Author
-
-**Snehal Nakil**
+<p align="center">
+  <a href="https://leetcode.com/u/itsmeesnehaa/">
+    <i class="fa-brands fa-linkedin"></i>"
+  </a>
+  <a href="https://github.com/itsmeesnehaa">
+    <i class="fa-brands fa-github"></i>" 
+  </a>
+</p>
 
 ---
